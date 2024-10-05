@@ -2,7 +2,6 @@
 title: " Boost Your Productivity with Shell Aliases: A Simple Hack for Flutter Developers "
 description: "As Flutter developers, we often perform repetitive tasks — like cleaning builds, getting dependencies, and running code generators. While these tasks are necessary, they can quickly become time-consuming and disrupt our focus. Luckily, there's a simple productivity hack that can help: shell aliases."
 date: "2024-09-28T08:00:54.793Z"
-image: "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjm0ei1oxrn0l3i9dq8p.png"
 ---
 
 As Flutter developers, we often perform repetitive tasks — like cleaning builds, getting dependencies, and running code generators. While these tasks are necessary, they can quickly become time-consuming and disrupt our focus. Luckily, there's a simple productivity hack that can help: shell aliases.
