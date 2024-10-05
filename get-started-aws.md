@@ -2,7 +2,6 @@
 title: " Get Started With AWS "
 description: "Cloud computing is a computing service made available over the internet.  Cloud computing is a pay-as-you-go model for delivering IT resources.  You pay only for what you use. Everything runs in the cloud.  This model allows you to build new applications or move existing ones to the cloud.  There are different levels of services ranging from low to high.  The level of service has different requirements on your management, architecting, and infrastructure."
 date: "2023-03-28T08:00:54.793Z"
-image: "https://assets.intersystems.com/dims4/default/b9afc6f/2147483647/strip/true/crop/780x422+0+0/resize/780x422!/format/webp/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg"
 ---
 
 "Cloud computing" plays a vital role in the creation of software products and services. It's also one of the most highly sought-after skills in the tech industry.
